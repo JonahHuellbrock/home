@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Protected Site"
+AuthUserFile https://github.com/JonahHuellbrock/eg-rheda/.htpasswd
+require valid-user
